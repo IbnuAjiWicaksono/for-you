@@ -9,7 +9,7 @@ const Good = () => {
   return (
     <div className="flex flex-col items-center justify-center h-full">
       <h1 className="text-xl mx-15" style={{fontFamily:"Poppins"}}>
-        Ayo mau cerita apa? Jangan sungkan, setiap orang pasti butuh tempat cerita. Jangan malu, tidak semua orang kuat mendem sendirian.
+        Ayo mau cerita apa? Jangan sungkan, setiap orang pasti butuh tempat cerita. Jangan malu, ga semua orang kuat mendem sendirian.
       </h1>
       <img src={pentol4} alt="Pentol 1" className="mr-10" />
       <div className="pt-10">
